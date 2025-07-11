@@ -6,3 +6,4 @@ azure-functions
 azure-storage-blob
 azure-storage-queue
 jupyrest~=0.2.0
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
